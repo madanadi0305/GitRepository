@@ -1,0 +1,1 @@
+This is story3.txt file cotains content about story number 3. 
